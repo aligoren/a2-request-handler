@@ -1,6 +1,8 @@
 #Apache2 HTTP Request Handler
 
-Apache2 HTTP isteklerini yakalayıp daha insani hale getirir. Örmek bazı çıktılar:
+***Şu An İçin Sadece Debian Tabanlı Sistemlerde***
+
+Apache2 HTTP isteklerini yakalayıp daha insani hale getirir. Örnek bazı çıktılar:
 
 **Root Dizini İçin**
 
