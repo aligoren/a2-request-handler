@@ -1,5 +1,9 @@
 #Apache2 HTTP Request Handler
 
+**nginx için apache2 olan kısmı nginx olarak düzeltebilirsiniz**
+
+---
+
 ***Şu An İçin Sadece Debian Tabanlı Sistemlerde***
 
 Apache2 HTTP isteklerini yakalayıp daha insani hale getirir. Örnek bazı çıktılar:
